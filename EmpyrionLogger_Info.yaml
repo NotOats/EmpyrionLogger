@@ -1,0 +1,10 @@
+# all parameters are optional
+
+Name: EmpyrionLogger
+Description: Enhanced game server logging
+Author: NotOats
+Version: 1.0
+# Website: https://...
+
+# Set to 'None' to disable and 'Dedi, PfServer' to enable
+ModTargets: Dedi, PfServer
