@@ -13,7 +13,7 @@ To setup this project for development or custom builds:
    1. Find the Dedicated Server steam install location
    1. Naviate to the managed assemblly folder
       This is typically found at `<Install_Folder>\Empyrion - Dedicated Server\DedicatedServer\EmpyrionDedicated_Data\Managed`
-   1. Copy the following into a folder named `dependencies`` folder in the project root.
+   1. Copy the following into a folder named `dependencies` in the project root.
       ```
       Mif.dll
       ModApi.dll
